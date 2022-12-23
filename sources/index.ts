@@ -1,7 +1,6 @@
-import { PluginOption } from "vite"
-import { CommonOptions } from "esbuild"
+import { Plugin } from "vite"
 
-export const preact = (): PluginOption => {
+export const preact = (): Plugin => {
   return {
     name: "preact",
     config: () => {
