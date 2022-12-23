@@ -2,7 +2,7 @@
 
 Preact preset for Vite
 
-[![NPM](https://badgen.net/npm/v/vite-plugin-preact)](https://www.npmjs.com/package/vite-plugin-preact) ![TypeScript](https://badgen.net/npm/types/vite-plugin-preact) [![Test](https://github.com/aminnairi/vite-plugin-preact/actions/workflows/test.yaml/badge.svg?branch=development)](https://github.com/aminnairi/vite-plugin-preact/actions/workflows/test.yaml)
+[![NPM](https://badgen.net/npm/v/vite-plugin-preact)](https://www.npmjs.com/package/vite-plugin-preact) ![TypeScript](https://badgen.net/npm/types/vite-plugin-preact) [![Test](https://github.com/aminnairi/vite-plugin-preact/actions/workflows/test.yaml/badge.svg?branch=development)](https://github.com/aminnairi/vite-plugin-preact/actions/workflows/test.yaml) ![Snyk](https://badgen.net/snyk/aminnairi/vite-plugin-preact)
 
 ## Requirements
 
