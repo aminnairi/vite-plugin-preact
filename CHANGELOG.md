@@ -4,7 +4,7 @@
 
 - [`0.2.0`](#020)
 - [`0.1.0`](#010)
-- 
+
 ## 0.2.0
 
 ### Major changes
@@ -12,7 +12,6 @@
 None.
 
 ### Minor changes
-
 
 - New feature for having a NPM version badge ([#1](https://github.com/aminnairi/vite-plugin-preact/issues/1))
 - New feature for having a typescript badge ([#2](https://github.com/aminnairi/vite-plugin-preact/issues/2))
