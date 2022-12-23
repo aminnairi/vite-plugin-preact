@@ -4,8 +4,8 @@ Preact preset for Vite
 
 ## Requirements
 
-- Node
-- NPM
+- [Node](https://nodejs.org/)
+- [NPM](https://www.npmjs.com/)
 
 ## Installation
 
@@ -25,3 +25,23 @@ export default defineConfig({
   ]
 })
 ```
+
+## License
+
+See [`LICENSE`](./LICENSE).
+
+## Issue
+
+See [`issues`](./issues).
+
+## Contributing
+
+See [`CONTRIBUTING.md`](./CONTRIBUTING.md).
+
+## Code of conduct
+
+See [`CODE_OF_CONDUCT.md`](./CODE_OF_CONDUCT.md).
+
+## Security
+
+See [`SECURITY.md`](./SECURITY.md).
