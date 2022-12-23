@@ -6,6 +6,7 @@ export default defineConfig({
     preact()
   ],
   build: {
+    emptyOutDir: true,
     lib: {
       entry: "sources/index.ts",
       name: "vite-plugin-preact",

@@ -9,6 +9,10 @@
   "main": "dist/index.umd.js",
   "module": "dist/index.mjs",
   "packageManager": "npm",
+  "types": "dist/index.d.ts",
+  "files": [
+    "dist"
+  ],
   "bugs": {
     "url": "https://github.com/aminnairi/vite-plugin-preact/issues"
   },
@@ -28,7 +32,8 @@
   ],
   "scripts": {
     "start": "vite",
-    "build": "vite build"
+    "build": "vite build",
+    "types": "./node_modules/.bin/tsc --project tsconfig.json --emitDeclarationOnly"
   },
   "devDependencies": {
     "typescript": "4.9.4",

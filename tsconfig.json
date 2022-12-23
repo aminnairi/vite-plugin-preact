@@ -1,0 +1,18 @@
+{
+  "include": [
+    "sources"
+  ],
+  "exclude": [
+    "**/index.d.ts"
+  ],
+  "compilerOptions": {
+    "skipLibCheck": true,
+    "target": "esnext",
+    "module": "esnext",
+    "moduleResolution": "node",
+    "strict": true,
+    "outDir": "dist",
+    "rootDir": "sources",
+    "declaration": true
+  }
+}
