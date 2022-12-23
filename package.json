@@ -1,0 +1,40 @@
+{
+  "private": false,
+  "type": "module",
+  "name": "vite-plugin-preact",
+  "description": "Preact preset for Vite",
+  "version": "0.1.0",
+  "homepage": "https://github.com/aminnairi/vite-plugin-preact#readme",
+  "license": "GPL-3.0-or-later",
+  "main": "dist/index.umd.js",
+  "module": "dist/index.mjs",
+  "packageManager": "npm",
+  "bugs": {
+    "url": "https://github.com/aminnairi/vite-plugin-preact/issues"
+  },
+  "author": {
+    "name": "Amin NAIRI",
+    "url": "https://github.com/aminnairi"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/aminnairi/vite-plugin-preact.git"
+  },
+  "keywords": [
+    "vite",
+    "preset",
+    "preact",
+    "plugin"
+  ],
+  "scripts": {
+    "start": "vite",
+    "build": "vite build"
+  },
+  "devDependencies": {
+    "typescript": "4.9.4",
+    "vite": "4.0.3"
+  },
+  "dependencies": {
+    "preact": "^10.11.3"
+  }
+}
