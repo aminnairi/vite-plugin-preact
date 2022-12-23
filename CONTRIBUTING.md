@@ -8,7 +8,7 @@
 
 ## Pick an issue
 
-See [`issues`](./issues).
+See [`issues`](../../issues).
 
 ## Fork and clone the repository
 
@@ -35,4 +35,4 @@ npm run build
 
 ## Pull request
 
-See [`pulls`](./pulls).
+See [`pulls`](../../pulls).

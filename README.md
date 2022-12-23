@@ -32,7 +32,7 @@ See [`LICENSE`](./LICENSE).
 
 ## Issue
 
-See [`issues`](./issues).
+See [`issues`](../../issues).
 
 ## Contributing
 
