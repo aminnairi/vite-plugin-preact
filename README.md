@@ -28,6 +28,10 @@ export default defineConfig({
 })
 ```
 
+## Changelog
+
+See [`CHANGELOG.md`](./CHANGELOG.md).
+
 ## License
 
 See [`LICENSE`](./LICENSE).
