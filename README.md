@@ -2,6 +2,8 @@
 
 Preact preset for Vite
 
+[![NPM](https://badgen.net/npm/v/vite-plugin-preact)](https://www.npmjs.com/package/vite-plugin-preact)
+
 ## Requirements
 
 - [Node](https://nodejs.org/)
