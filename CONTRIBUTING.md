@@ -27,6 +27,12 @@ See [`sources`](./sources).
 npm start
 ```
 
+## Test the project
+
+```bash
+npm test
+```
+
 ## Build the project
 
 ```bash
