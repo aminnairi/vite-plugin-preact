@@ -34,7 +34,7 @@
     "test": "vitest run --coverage",
     "build": "vite build",
     "types": "tsc --project tsconfig.json --emitDeclarationOnly",
-    "prepare": "npm run build && npm run types"
+    "prepare": "npm run build && npm run types && ls dist/index.d.ts && ls dist/index.js && ls dist/index.umd.cjs"
   },
   "devDependencies": {
     "@vitest/coverage-c8": "^0.26.2",
