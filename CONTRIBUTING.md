@@ -39,6 +39,12 @@ npm test
 npm run build
 ```
 
+## Simulate a project publish
+
+```bash
+npm pack --dry-run
+```
+
 ## Pull request
 
 See [`pulls`](../../pulls).
