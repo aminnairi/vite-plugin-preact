@@ -3,7 +3,8 @@
     "sources"
   ],
   "exclude": [
-    "**/index.d.ts"
+    "**/index.d.ts",
+    "**/index.test.ts"
   ],
   "compilerOptions": {
     "skipLibCheck": true,
