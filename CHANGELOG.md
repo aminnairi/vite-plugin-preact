@@ -2,8 +2,24 @@
 
 ## Versions
 
+- [`0.2.1`](#021)
 - [`0.2.0`](#020)
 - [`0.1.0`](#010)
+
+## 0.2.0
+
+### Major changes
+
+None.
+
+### Minor changes
+
+None.
+
+### Bug & security fixes
+
+- Issue with the import of the plugin ([#9](https://github.com/aminnairi/vite-plugin-preact/issues/9))
+- Issue with the type definition ([#10](https://github.com/aminnairi/vite-plugin-preact/issues/10))
 
 ## 0.2.0
 
